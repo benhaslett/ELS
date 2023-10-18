@@ -1,7 +1,7 @@
 Establishing a standardized set of rules or grammar for emojis should provoke a lot of thought and discussion. Let's outline a basic framework that might serve as a starting point:
 
 1. **Emoji Placement:**
-   - *Sentence-End Emojis:* Emojis used at the end of sentences can function similarly to punctuation, adding emotional context to the statement. For instance, "I had a great day 😀" uses the emoji to convey happiness about the statement.
+   - *Sentence-End Emojis:* Emojis used at the end of sentences can function similarly to punctuation, adding emotional context to the statement. For instance, "I had a great day 😀" uses the emoji to convey happiness about the statement. When used in this way the sentence would not requirea period. The emoji serves that purpose.
    - *In-Line Emojis:* When used within a sentence, akin to an adverb or adjective, the emoji should directly follow the word or phrase it's describing to prevent confusion. E.g., "The cat 🐱 was very playful today."
 
 2. **Emoji Repetition:**
